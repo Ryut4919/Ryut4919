@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryut4919
+- 👋 Hi, I’m Ryut
 - 👀 I’m interested in creating game
 - 🌱 I’m currently learning C#,c++,python,html
 
